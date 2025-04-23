@@ -3,6 +3,7 @@ body {
   font-size: 1em;
   color: rgb(200, 200, 200);
   background-color: rgb(33, 37, 41);
+  height: 100%;
 }
 
 nav,
@@ -53,7 +54,8 @@ img {
   color: rgb(220, 220, 220);
 }
 
-.tituloDisDesWeb {
+.titulosh3 {
   color: white;
   font-weight: bold;
+  text-align: center;
 }
